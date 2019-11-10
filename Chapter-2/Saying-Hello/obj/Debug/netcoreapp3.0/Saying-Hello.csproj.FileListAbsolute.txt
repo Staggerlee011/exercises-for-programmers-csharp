@@ -1,0 +1,11 @@
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.exe
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.deps.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.runtimeconfig.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.runtimeconfig.dev.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\bin\Debug\netcoreapp3.0\Saying-Hello.pdb
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\obj\Debug\netcoreapp3.0\Saying-Hello.csprojAssemblyReference.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\obj\Debug\netcoreapp3.0\Saying-Hello.AssemblyInfoInputs.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\obj\Debug\netcoreapp3.0\Saying-Hello.AssemblyInfo.cs
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\obj\Debug\netcoreapp3.0\Saying-Hello.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Saying-Hello\obj\Debug\netcoreapp3.0\Saying-Hello.pdb

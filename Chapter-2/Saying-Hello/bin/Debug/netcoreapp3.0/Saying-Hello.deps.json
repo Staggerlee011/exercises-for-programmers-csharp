@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Saying-Hello/1.0.0": {
+        "runtime": {
+          "Saying-Hello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saying-Hello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

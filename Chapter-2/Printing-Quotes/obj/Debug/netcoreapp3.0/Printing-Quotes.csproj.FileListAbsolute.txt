@@ -1,0 +1,11 @@
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\obj\Debug\netcoreapp3.0\Printing-Quotes.csprojAssemblyReference.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\obj\Debug\netcoreapp3.0\Printing-Quotes.AssemblyInfoInputs.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\obj\Debug\netcoreapp3.0\Printing-Quotes.AssemblyInfo.cs
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.exe
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.deps.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.runtimeconfig.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.runtimeconfig.dev.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\bin\Debug\netcoreapp3.0\Printing-Quotes.pdb
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\obj\Debug\netcoreapp3.0\Printing-Quotes.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Printing-Quotes\obj\Debug\netcoreapp3.0\Printing-Quotes.pdb

@@ -1,0 +1,11 @@
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\obj\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.csprojAssemblyReference.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\obj\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.AssemblyInfoInputs.cache
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\obj\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.AssemblyInfo.cs
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.exe
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.deps.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.runtimeconfig.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.runtimeconfig.dev.json
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\bin\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.pdb
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\obj\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.dll
+E:\github\exercises-for-programmers-csharp\Chapter-2\Counting-The-Num-Of-Chars\obj\Debug\netcoreapp3.0\Counting-The-Num-Of-Chars.pdb
